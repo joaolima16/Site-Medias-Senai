@@ -1,6 +1,6 @@
 <h1 align="center"> Sistema De Notas Senai 2DT </h1>
 
-![Screenshot](princortada.png)
+![Screenshot](print.png)
 
 
 <h2> Objetivo Do Site:</h2>  
