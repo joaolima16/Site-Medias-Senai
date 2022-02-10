@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background:#8661C1;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+#sistema{
+    text-align:center;
+    margin-top:100px
+}
+#sistemas_notas #situacoes{
+    font-size:18px;
+}
+.funcoes_add{
+    margin-top:20px;
+}
+.res_media_geral{
+    margin-top:100px;
+    border-bottom:1px solid white;
+    margin-bottom: 10px;
+}
+input[type='button']{
+    padding:5px;
+    font-size:18px;
+    border-radius:15px;
+    border:2px solid #653FA2;
+}
+input[type='button']:hover{
+    background:#653FA2;
+    color:white;
+    transition:.7s;
+}
+
+input[type='button']:disabled, input[type='button']:disabled:hover{
+    color: black;
+    background-color: grey;
+}
+
+input[type='text'], input[type='number']{
+    margin-top:10px;
+    padding:5px;
+    border:1px solid purple;
+    border-radius:10px;
+}
